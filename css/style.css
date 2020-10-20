@@ -1,0 +1,14 @@
+body{
+	height: 95vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	color: rgb(82, 141, 151);
+	
+}
+
+h1 {
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: xx-large;
+}
